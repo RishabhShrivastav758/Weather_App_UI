@@ -17,10 +17,10 @@ body{
 .weather-app{
     background-color: white;
     max-width: 600px;
-    margin: 50px auto;
+    margin: 100px auto;
     padding: 40px;
     border-radius: 15px;
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .search-form{
@@ -61,7 +61,7 @@ input[type="text"]{
 
 .city-date-section .city{
     font-size: 2rem;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 .city-date-section .date{
@@ -128,7 +128,7 @@ input[type="text"]{
 
 .additional-info i{
     font-size: 3rem;
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 .additional-info div, humidity-info div, visibility-info div{
