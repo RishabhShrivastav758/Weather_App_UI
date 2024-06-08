@@ -1,6 +1,6 @@
 ## Weather App UI
 
-#### Technology Used:
+#### Language Used:
 <img src="resources/icon.png" width="250" />
 
 #### Screenshot 1
