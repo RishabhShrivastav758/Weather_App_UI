@@ -6,5 +6,5 @@
 #### Screenshot 1
 ![Alt text](resources/screenshot1.png)
 
-#### Screenshot 1
+#### Screenshot 2
 ![Alt text](resources/screenshot2.png)
